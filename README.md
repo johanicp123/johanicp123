@@ -1,7 +1,7 @@
 # 💫 About Me:
 :heavy_check_mark: I characterize myself as a respectful, friendly person, patient, autonomous and able to adapt to any situation and eager to learn.
-:heavy_check_mark: 
-:heavy_check_mark: 
+:heavy_check_mark: year and a half of experience as an assistant, support, front-end programmer.
+:heavy_check_mark: I currently work as a front and backend developer in the RPA area, in charge of developing and supporting Huawei NOC applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alberth-campos) 
