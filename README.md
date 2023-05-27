@@ -1,6 +1,7 @@
 # 💫 About Me:
-:heavy_check_mark:
-
+:heavy_check_mark: I characterize myself as a respectful, friendly person, patient, autonomous and able to adapt to any situation and eager to learn.
+:heavy_check_mark: 
+:heavy_check_mark: 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alberth-campos) 
